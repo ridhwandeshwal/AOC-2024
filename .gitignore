@@ -1,3 +1,4 @@
 *.exe
 *.txt
 try*.ipynb
+output*
